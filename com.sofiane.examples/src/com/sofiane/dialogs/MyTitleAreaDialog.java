@@ -11,6 +11,10 @@ import org.eclipse.swt.widgets.Label;
 import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Text;
 
+/*
+*@autor:sofiane.qartit
+*/
+
 public class MyTitleAreaDialog extends TitleAreaDialog {
 
 	private Text txtFirstName;
